@@ -1,1 +1,2 @@
-read me file here 
+projeto feito com react js typescript 
+
